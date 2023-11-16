@@ -98,11 +98,7 @@ footer{
             border: 20px solid #f4f4f4;
         }
 
-        .product-image {
-            flex: 1;
-            background: url('f6.jpg') center center no-repeat;
-            background-size: cover;
-        }
+        
 
         .product-details {
             flex: 1;

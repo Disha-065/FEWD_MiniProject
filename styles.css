@@ -90,3 +90,29 @@ footer{
       margin:0 5px;
 }
 
+.product-container {
+            display: flex;
+            height: 85vh;
+            width: 95%;
+            background-color: #fff;
+            border: 20px solid #f4f4f4;
+        }
+
+        .product-image {
+            flex: 1;
+            background: url('f6.jpg') center center no-repeat;
+            background-size: cover;
+        }
+
+        .product-details {
+            flex: 1;
+            padding: 20px;
+        }
+
+        .product-details h1 {
+            font-size: 40px;
+        }
+
+        .product-details p {
+            font-size: 25px;
+        }
